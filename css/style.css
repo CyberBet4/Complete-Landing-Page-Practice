@@ -42,6 +42,14 @@ font-weight: bold;
     
 }
 
+/* JUMBOTRON BACKGROUND IMAGE */
+div.jumbotron.bg-white{
+    background-image: url('../img/section-form-11.jpg');
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+
+}
+
 /*----------------Headbar section Ends here-----------------------------------------*/
 .headbar{
     background: white;
