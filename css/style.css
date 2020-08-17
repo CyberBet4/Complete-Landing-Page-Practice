@@ -50,6 +50,9 @@ div.jumbotron.bg-white{
 
 }
 
+.form-control{
+    padding: 14px 13px !important;
+}
 /*----------------Headbar section Ends here-----------------------------------------*/
 .headbar{
     background: white;
